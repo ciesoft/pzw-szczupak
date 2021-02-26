@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pzw-szczupak/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/pzw-szczupak/static/js/main.c351d187.chunk.js",
+    "main.js.map": "/pzw-szczupak/static/js/main.c351d187.chunk.js.map",
+    "runtime-main.js": "/pzw-szczupak/static/js/runtime-main.54339cee.js",
+    "runtime-main.js.map": "/pzw-szczupak/static/js/runtime-main.54339cee.js.map",
+    "static/js/2.d46fb6a9.chunk.js": "/pzw-szczupak/static/js/2.d46fb6a9.chunk.js",
+    "static/js/2.d46fb6a9.chunk.js.map": "/pzw-szczupak/static/js/2.d46fb6a9.chunk.js.map",
+    "static/js/3.6960084b.chunk.js": "/pzw-szczupak/static/js/3.6960084b.chunk.js",
+    "static/js/3.6960084b.chunk.js.map": "/pzw-szczupak/static/js/3.6960084b.chunk.js.map",
+    "index.html": "/pzw-szczupak/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/pzw-szczupak/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d46fb6a9.chunk.js.LICENSE.txt": "/pzw-szczupak/static/js/2.d46fb6a9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pzw-szczupak/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54339cee.js",
+    "static/js/2.d46fb6a9.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c351d187.chunk.js"
+  ]
+}
